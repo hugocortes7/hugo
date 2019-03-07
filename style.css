@@ -22,3 +22,32 @@ header{
     
     text-align: center;
 }
+h1{
+    color:red ;
+}
+    
+p{
+    color: red ;
+}
+
+.services i{
+    /*adjust size and position of the icon*/
+    font-size: 40px;
+    padding: 25px 20px;
+    
+    /*color changes the color of the icon*/
+    color: #333300; 
+    background-color: grey;
+    
+    width: 80px;
+    height:80px;
+    
+border-radius: 50%
+}
+.services{
+    text-align: center;
+}
+.services span{
+    width: 200px;
+    display: inline-block;
+}
